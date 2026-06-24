@@ -1,0 +1,15 @@
+.navigate-btn {
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.navigate-btn--primary {
+  color: var(--color-primary);
+}
+
+.navigate-btn--link {
+  display: inline-block;
+  margin-bottom: 12px;
+  color: var(--color-primary);
+  font-weight: 500;
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "Kyiv Branch #1",
+    "address": "1 Khreshchatyk St, Kyiv",
+    "type": "Branch",
+    "rating": 4.8
+  },
+  {
+    "id": "2",
+    "name": "Kyiv Locker #12",
+    "address": "25 Peremohy Ave, Kyiv",
+    "type": "Locker",
+    "rating": 4.5
+  },
+  {
+    "id": "3",
+    "name": "Lviv Branch #3",
+    "address": "10 Svobody Ave, Lviv",
+    "type": "Branch",
+    "rating": 4.9
+  },
+  {
+    "id": "4",
+    "name": "Odesa Locker #4",
+    "address": "22 Karolina St, Odesa",
+    "type": "Locker",
+    "rating": 4.6
+  },
+  {
+    "id": "5",
+    "name": "Dnipro Branch #5",
+    "address": "14 Yavornytskoho Ave, Dnipro",
+    "type": "Branch",
+    "rating": 4.8
+  },
+  {
+    "id": "6",
+    "name": "Kharkiv Pickup Point #6",
+    "address": "5 Sumska St, Kharkiv",
+    "type": "Pickup point",
+    "rating": 4.4
+  }
+]

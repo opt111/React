@@ -1,0 +1,18 @@
+.favorites-empty {
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+}
+
+.favorite-remove-btn {
+  border: 1px solid #fecaca;
+  background: #fef2f2;
+  color: #dc2626;
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 6px 10px;
+  border-radius: 6px;
+}
+
+.favorite-remove-btn:hover {
+  background: #fee2e2;
+}
